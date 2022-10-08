@@ -1,2 +1,2 @@
-# deno-samples
-A simple samples applying js or typescript over deno
+# BeyondNet.Sample.JsDenoTodo
+A simple TO-DO app with JS and Deno 
